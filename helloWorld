@@ -1,0 +1,4 @@
+displayGreeting = ->
+  console.log 'Hello, world!'
+  
+displayGreeting()
